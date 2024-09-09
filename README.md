@@ -18,8 +18,8 @@ I'm a Cloud/DevOps Engineer. I am passionate about Cloud Engineering, DevOps cul
 ![Scripting-Python](https://img.shields.io/badge/Scripting-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Container_Runtime-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![CI/CD-Azure DevOps](https://img.shields.io/badge/CI/CD-Azure%20DevOps-informational?style=flat&logo=azure-devops&logoColor=white&color=2bbc8a)
-![CI/CD-GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-informational?style=flat&logo=github-actions&logoColor=white&color=2bbc8a
-![](https://img.shields.io/badge/CI/CD-Jenkins,ArgoCD-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
+![CI/CD-GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-informational?style=flat&logo=github-actions&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-VanillaJS-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![Code-PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
